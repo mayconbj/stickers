@@ -4,10 +4,10 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Star Wars",
-      "publisher": "Bruno Alexander",
+      "name": "Meme Wars",
+      "publisher": "Maycon e Bruno",
       "tray_image_file": "jar-jar-binks2.png",
-      "publisher_email":"akharst@gmail.com",
+      "publisher_email":"mayconbj@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
@@ -21,56 +21,92 @@
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03-cala-boca.webp",
+          "image_file": "03-jar-jar-binks5.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "04-oi-rs.webp",
+          "image_file": "04-serio.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "05-yoda-sexy.webp",
+          "image_file": "05-foda-se.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "06-bjs.webp",
+          "image_file": "06-affz.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "07-chewbacca-owwnt.webp",
+          "image_file": "07-luke-espantado.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "08-serio.webp",
+          "image_file": "08-luke-gritando.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "09-foda-se.webp",
+          "image_file": "09-han-wtf.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "10-han-wtf.webp",
+          "image_file": "10-fodeu.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "11-affz.webp",
+          "image_file": "11-chewbacca.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "12-fodeu.webp",
+          "image_file": "12-force-with-you.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "13-force-with-you.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "14-long-time-text.webp",
+          "image_file": "13-long-time-text.webp",
           "emojis": ["😆","😂"]
         }
-
       ]
-    }
+    },
+
+    {
+      "identifier": "2",
+      "name": "Love Wars",
+      "publisher": "Maycon e Bruno",
+      "tray_image_file": "oi-rs.png",
+      "publisher_email":"mayconbj@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01-oi-rs.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02-cala-boca.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03-lando-calrissian-sedutor.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04-yoda-sexy.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "05-bjs.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "06-chewbacca-owwnt.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "07-ja-sabe-ne.webp",
+          "emojis": ["😆","😂"]
+        }
+        ]
+      }
 
   ]
 }
