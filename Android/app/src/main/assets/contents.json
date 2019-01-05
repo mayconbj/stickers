@@ -13,55 +13,59 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01-jar-jar-binks.webp",
+          "image_file": "jar-jar-binks.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "02-binks-comigo.webp",
+          "image_file": "binks-comigo.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03-jar-jar-binks5.webp",
+          "image_file": "coe.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "04-serio.webp",
+          "image_file": "caguei.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "05-foda-se.webp",
+          "image_file": "serio.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "06-affz.webp",
+          "image_file": "foda-se.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "07-luke-espantado.webp",
+          "image_file": "affz.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "08-luke-gritando.webp",
+          "image_file": "luke-espantado.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "09-han-wtf.webp",
+          "image_file": "luke-gritando.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "10-fodeu.webp",
+          "image_file": "han-wtf.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "11-chewbacca.webp",
+          "image_file": "fodeu.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "12-force-with-you.webp",
+          "image_file": "chewbacca.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "13-long-time-text.webp",
+          "image_file": "force-with-you.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "long-time-text.webp",
           "emojis": ["😆","😂"]
         }
       ]
@@ -78,31 +82,67 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01-oi-rs.webp",
+          "image_file": "oi-rs.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "02-cala-boca.webp",
+          "image_file": "cala-boca.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03-lando-calrissian-sedutor.webp",
+          "image_file": "lando-calrissian-sedutor.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "04-yoda-sexy.webp",
+          "image_file": "tenho-interesse.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "05-bjs.webp",
+          "image_file": "love.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "06-chewbacca-owwnt.webp",
+          "image_file": "yoda-sexy.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "07-ja-sabe-ne.webp",
+          "image_file": "manda-nudes.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "minha-forca.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "ja-sabe-ne.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "magoei.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "chewbacca-owwnt.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "bjs.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "dlc.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "han.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "han-espaco.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "elite-mineira.webp",
           "emojis": ["😆","😂"]
         }
         ]
